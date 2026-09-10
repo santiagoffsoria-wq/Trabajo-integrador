@@ -1,4 +1,4 @@
-#Codigo ordenado en funciones
+#funciones
 
 Import csv
 def cargar_catalogo():

@@ -1,5 +1,5 @@
-#Canciones
-id,titulo,artista,album,genero,anio,duracion_seg
+#Lista de cancionwa
+lista_de_canciones= [id,titulo,artista,album,genero,anio,duracion_seg
 1,De Musica Ligera,Soda Stereo,Cancion Animal,Rock,1990,213
 2,Persiana Americana,Soda Stereo,Signos,Rock,1986,263
 3,En la Ciudad de la Furia,Soda Stereo,Doble Vida,Rock,1988,351
@@ -66,13 +66,13 @@ id,titulo,artista,album,genero,anio,duracion_seg
 64,Creep (Live),Radiohead,The Astoria London,Rock,1994,245
 65,Yellow (Live),Coldplay,Live 2003,Rock,2003,280
 66,Blank Space (Acoustic),Taylor Swift,1989,Pop,2014,228
-67,Get Lucky (Daft Punk Remix),Daft Punk,Random Access Memories,Electronica,2013,248
+67,Get Lucky (Daft Punk Remix),Daft Punk,Random Access Memories,Electronica,2013,248]
 
 
 
-#Versiones:
+#Lista de Versiones:
 
-cancion_id,version_de_id,tipo
+versiones =[cancion_id,version_de_id,tipo
 13,12,live
 16,61,cover
 33,32,live
@@ -83,4 +83,4 @@ cancion_id,version_de_id,tipo
 64,55,live
 65,54,live
 66,31,cover
-67,37,remix
+67,37,remix]

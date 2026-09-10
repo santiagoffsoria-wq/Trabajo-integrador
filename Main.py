@@ -2,10 +2,7 @@
 
 Import csv
 def cargar_catalogo():
-  with open ("catalogo.csv", "r", encording="utf_8") as archivo:
-    Lector = csv.dictpleader (archivo)
-Catalogo = list (lector)
-return catalogo
+ return catalogo
 
 def listar catalogo(catalogo):
 Print ("/n==== CATALOGO====")

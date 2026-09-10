@@ -27,3 +27,5 @@ una interfaz de línea de comandos (CLI).
 
 - `main.py`: contiene el programa principal y las funciones.
 - `catalogo.csv`: contiene los datos del catálogo de canciones.
+
+  ##Informe: Elegimos este tema ya que entre los que habia nos parecio una opción bastante buen eh interesante. A todos los integrantes del grupo nos llamo la idea de construir una biblioteca musical y por eso la elejimos.

@@ -22,6 +22,8 @@ una interfaz de línea de comandos (CLI).
 - Pausar canciones.
 - Avanzar a la siguiente canción.
 - Volver a la canción anterior.
+- Permite crear listas
+- permite buscar canciones
 
 
   ##Informe: Elegimos este tema ya que entre los que habia nos parecio una opción bastante buen eh interesante. A todos los integrantes del grupo nos llamo la idea de construir una biblioteca musical y por eso la elejimos.

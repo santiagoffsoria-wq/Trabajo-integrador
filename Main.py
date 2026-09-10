@@ -1,10 +1,5 @@
-#no ordenado
-import csv
-with open("Catalogo.csv","r" enconding="utf-8)as archivo:
-Lector = csv.dictpleader (archivo)
-Catalogo = list (lector) 
-Print (catalogo)
-#ordenado
+#Codigo ordenado en funciones
+
 Import csv
 def cargar_catalogo():
   with open ("catalogo.csv", "r", encording="utf_8") as archivo:

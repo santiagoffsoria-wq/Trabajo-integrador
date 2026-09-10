@@ -2,9 +2,9 @@
 
 #INTEGRANTES
 
-- Santiago Soria, Gamil:Santiagoffsoria, Usuario de Github: santiagoffsoria-wq
-- Medina Julieta, Gmail:, Usuario de Github: 
-- María Bustamante, Gmail:, Usuario de Github
+- Santiago Soria, Gamil:Santiagoffsoria@gmail.com, Usuario de Github: santiagoffsoria-wq
+- Medina Julieta, Gmail: julietcarla.m@gmail.com, Usuario de Github: ChulyCarla
+- María Bustamante, Gmail: aguirresfines2024@gmail.com, Usuario de Github: bustamantemeria-glitch
 
 #TEMA ELEGIDO:
 

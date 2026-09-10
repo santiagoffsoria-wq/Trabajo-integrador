@@ -6,10 +6,9 @@
 - Medina Julieta, Gmail:, Usuario de Github: 
 - María Bustamante, Gmail:, Usuario de Github
 
-## Descripción
+## Tema Elegido:
 
-Este proyecto consiste en desarrollar una Biblioteca musical
-utilizando Python.
+ Biblioteca musical.
 
 El programa permite trabajar con un catálogo de canciones cargado
 desde un archivo CSV y ofrece diferentes funcionalidades mediante
@@ -28,12 +27,3 @@ una interfaz de línea de comandos (CLI).
 
 - `main.py`: contiene el programa principal y las funciones.
 - `catalogo.csv`: contiene los datos del catálogo de canciones.
-
-## Instrucciones de ejecución
-
-1. Descargar o clonar el repositorio.
-2. Tener Python instalado.
-3. Ejecutar el archivo `main.py`.
-
-```bash
-python main.py

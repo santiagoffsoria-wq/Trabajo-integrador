@@ -1,4 +1,4 @@
-# Playlist - Trabajo Integrador
+# 2026-musica - Trabajo Integrador
 
 ## Integrantes
 

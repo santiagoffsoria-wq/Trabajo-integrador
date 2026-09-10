@@ -3,13 +3,13 @@
 ## Integrantes
 
 - Santiago Soria
-- Nombre del compañero 2
-- Nombre del compañero 3
+- Medina Julieta
+- María Bustamante
 
 ## Descripción
 
-Este proyecto consiste en desarrollar una aplicación de reproducción
-de música utilizando Python.
+Este proyecto consiste en desarrollar una Biblioteca musical
+utilizando Python.
 
 El programa permite trabajar con un catálogo de canciones cargado
 desde un archivo CSV y ofrece diferentes funcionalidades mediante

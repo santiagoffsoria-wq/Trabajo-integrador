@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-- Santiago Soria
-- Medina Julieta
-- María Bustamante
+- Santiago Soria, Gamil:Santiagoffsoria, Usuario de Github: santiagoffsoria-wq
+- Medina Julieta, Gmail:, Usuario de Github: 
+- María Bustamante, Gmail:, Usuario de Github
 
 ## Descripción
 
